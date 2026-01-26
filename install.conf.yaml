@@ -3,5 +3,36 @@
 - link:
     ~/.bash_profile: bash_profile
     ~/.bashrc: bashrc
+    ~/.zshrc: zshrc
+    ~/.config/alacritty/alacritty.toml: alacritty.toml
 
+- brew:
+    - git
+    - mise
+    - difftastic
+    - docker
+    - docker-compose
+    - docker-credential-helper
+    - powerlevel10k
 
+- cask: 
+    - alacritty
+    - visual-studio-code
+    - postman
+    - dbeaver-community
+    - rancher
+    - ngrok
+    - cursor
+    # - syncthing-app
+    # - logi-options+
+    - font-hack-nerd-font
+    - font-meslo-lg-nerd-font
+    - font-meslo-for-powerlevel10k
+    - tailscale-app
+    - mqtt-explorer
+    - vlc
+    - raycast
+    - obsidian
+    - slack
+    - google-chrome
+    - macsyzones
