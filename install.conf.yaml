@@ -4,6 +4,7 @@
     ~/.bash_profile: bash_profile
     ~/.bashrc: bashrc
     ~/.zshrc: zshrc
+    ~/.p10k.zsh: p10k.zsh
     ~/.config/alacritty/alacritty.toml: alacritty.toml
 
 - plugins:
