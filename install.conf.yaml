@@ -6,6 +6,9 @@
     ~/.zshrc: zshrc
     ~/.config/alacritty/alacritty.toml: alacritty.toml
 
+- plugins:
+    - dotbot-brew/
+
 - brew:
     - git
     - mise
