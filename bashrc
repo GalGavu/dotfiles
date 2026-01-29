@@ -13,3 +13,7 @@ export AWS_PROFILE=dev
 
 # mise
 eval "$(mise activate bash)"
+
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+export PATH="/Users/bartb/.rd/bin:$PATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)

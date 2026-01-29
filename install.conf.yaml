@@ -27,8 +27,8 @@
     - rancher
     - ngrok
     - cursor
-    # - syncthing-app
-    # - logi-options+
+    - syncthing-app
+    - logi-options+
     - font-hack-nerd-font
     - font-meslo-lg-nerd-font
     - font-meslo-for-powerlevel10k
