@@ -1,4 +1,4 @@
-- clean: ['~']
+- clean: ["~"]
 
 - link:
     ~/.bash_profile: bash_profile
@@ -10,6 +10,9 @@
 - plugins:
     - dotbot-brew/
 
+- tap:
+    - akka/brew
+
 - brew:
     - git
     - mise
@@ -18,16 +21,19 @@
     - docker-compose
     - docker-credential-helper
     - powerlevel10k
+    - akka
+    - proto
 
-- cask: 
+- cask:
     - alacritty
     - visual-studio-code
     - postman
     - dbeaver-community
-    - rancher
+    # - rancher
+    - docker-desktop
     - ngrok
     - cursor
-    - syncthing-app
+    # - syncthing-app
     - logi-options+
     - font-hack-nerd-font
     - font-meslo-lg-nerd-font
