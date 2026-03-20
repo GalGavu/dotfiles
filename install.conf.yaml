@@ -6,6 +6,7 @@
     ~/.zshrc: zshrc
     ~/.p10k.zsh: p10k.zsh
     ~/.config/alacritty/alacritty.toml: alacritty.toml
+    ~/.config/mise/config.toml: config.toml
 
 - plugins:
     - dotbot-brew/
