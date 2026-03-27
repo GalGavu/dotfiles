@@ -26,7 +26,7 @@
     - proto
     - lazygit
     - lazydocker
-    - podman
+    # - podman
 
 - cask:
     - alacritty
@@ -35,6 +35,7 @@
     - dbeaver-community
     - rancher
     # - docker-desktop
+    # - podman-desktop
     - ngrok
     - cursor
     # - syncthing-app
