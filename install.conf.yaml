@@ -24,14 +24,17 @@
     - powerlevel10k
     - akka
     - proto
+    - lazygit
+    - lazydocker
+    - podman
 
 - cask:
     - alacritty
     - visual-studio-code
     - postman
     - dbeaver-community
-    # - rancher
-    - docker-desktop
+    - rancher
+    # - docker-desktop
     - ngrok
     - cursor
     # - syncthing-app
