@@ -26,19 +26,23 @@
     - proto
     - lazygit
     - lazydocker
+    - zoom
     # - podman
 
 - cask:
+    - affine
     - alacritty
     - visual-studio-code
     - postman
     - dbeaver-community
-    - rancher
-    # - docker-desktop
+    # - rancher
+    - docker-desktop
     # - podman-desktop
     - ngrok
+    - comfyui
     - cursor
     # - syncthing-app
+    - lm-studio
     - logi-options+
     - font-hack-nerd-font
     - font-meslo-lg-nerd-font
@@ -54,3 +58,4 @@
     - claude-code
     - claude
     - raycast
+    - ghostty
